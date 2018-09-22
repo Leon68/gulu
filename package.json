@@ -1,0 +1,22 @@
+{
+  "name": "gulu",
+  "version": "0.0.1",
+  "description": "vue造轮子",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leon68/gulu.git"
+  },
+  "author": "Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leon68/gulu/issues"
+  },
+  "homepage": "https://github.com/Leon68/gulu#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
+}
